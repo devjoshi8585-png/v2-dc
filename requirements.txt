@@ -1,0 +1,5 @@
+discord.py>=2.3.2
+aiohttp>=3.9.5
+Pillow>=10.0.0
+PyNaCl
+davey
